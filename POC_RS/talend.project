@@ -4,4 +4,5 @@
     <migrationTask xmi:id="_xxcYYEqYEfGDR6wASJ955w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_xv-_0kqYEfGDR6wASJ955w" login="4f00e5ca-c3b1-449c-b1de-8e31dd996c08@gisindia.in.qlikcloud.com" firstName="S" lastName="Prem" type="DQ"/>
+  <TalendProperties:User xmi:id="_w8eDgFAPEfGdiZ3Cujtmug" login="63d53f84-8b7d-4136-99d9-fb9a16ebaab9@gisindia.in.qlikcloud.com" firstName="Jyothi" lastName="T J" type="DQ"/>
 </xmi:XMI>
